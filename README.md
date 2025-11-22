@@ -19,9 +19,6 @@ Juan David Zabala Muñoz
 **Tecnologías usadas:**
 Flutter + Firebase + Google Maps
 
-**Video de cómo funciona (8 minutos 45 segundos):**
-https://youtu.be/GkPEmTIkhGY
-
 **Estado:** Prototipo simulado pero validado con usuarios reales  
 Puntuación de usabilidad: 86.5/100 (¡excelente!)
 
